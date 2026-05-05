@@ -1018,7 +1018,7 @@ Google 发布了第一个列型存储数据库 [Bigtable](http://www.read.seas.h
 
 - [SQL 与 NoSQL 简史](http://blog.grio.com/2015/11/sql-nosql-a-brief-history.html)
 - [BigTable 架构](http://www.read.seas.harvard.edu/~kohler/class/cs239-w08/chang06bigtable.pdf)
-- [Hbase 架构](https://www.edureka.co/blog/hbase-architecture/)
+- [HBase 架构](https://www.edureka.co/blog/hbase-architecture/)
 - [Cassandra 架构](http://docs.datastax.com/en/archived/cassandra/2.0/cassandra/architecture/architectureIntro_c.html)
 
 #### 图数据库
